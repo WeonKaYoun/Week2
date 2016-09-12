@@ -34,7 +34,7 @@ void main()
 
 	srand((unsigned int)time(NULL));
 
-	for (int i = 0; i < 10000; i++)
+	for (int i = 0; i < 1000; i++)
 	{
 		double x = getRandomNumber(0.0, 1.0);
 		double y = getRandomNumber(0.0, 1.0);
